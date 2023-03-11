@@ -3,3 +3,15 @@ body {
   height: 100%;
   margin: 0;
 }
+h1,
+figure,
+nav {text-align: center}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;}
+
+section > p {padding-left: 250px; text-align: center ; width: 800px;}
+nav > a {padding-right: 10px; padding-left: 10px;background-color:burlywood }
+
+div {text-align: center; background-color: burlywood; float: left; width: 25%;}
